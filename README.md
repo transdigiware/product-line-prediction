@@ -37,7 +37,7 @@ Within this sample scoring application you are able to:
 # Application Deployment
 For a fast start, you can deploy the pre-built app to Bluemix either by clicking the button
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/pmservice/product-line-prediction&appName=line-prediction&branch=master)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/pmservice/product-line-prediction&appName=line-prediction&branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/transdigiware/product-line-prediction.svg)](https://greenkeeper.io/)
 
 or using Watson Machine Learning Dashboard -> Samples -> (+) button.
 
